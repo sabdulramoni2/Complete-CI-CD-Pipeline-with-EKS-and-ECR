@@ -27,6 +27,8 @@ This project demonstrates how we build our Java application and push to AWS ECR.
 
    ![image](https://github.com/user-attachments/assets/8a1d29a9-68d1-4686-b53f-eb0af5ffbea5)
 
+   App is AWS ECR repository
+
    ![image](https://github.com/user-attachments/assets/ec7b1a13-13cd-4226-a86d-65e733bdd793)
 
 
