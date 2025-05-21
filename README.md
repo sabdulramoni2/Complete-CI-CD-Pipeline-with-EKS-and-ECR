@@ -35,7 +35,7 @@ This project demonstrates how we build our Java application and push to AWS ECR.
 
    ![image](https://github.com/user-attachments/assets/424c1e7f-36ef-4571-b1ba-922886497b0f)
 
-   - App running on the EKS cluster
+ - App running on the EKS cluster
   
    ![image](https://github.com/user-attachments/assets/352a5e3e-2369-4376-9501-0fe874c9ffb6)
 
