@@ -25,7 +25,12 @@ This project demonstrates how we build our Java application and push to AWS ECR.
  - Updated Jenkinsfile
  - Executed Jenkins Pipeline
 
+   ![image](https://github.com/user-attachments/assets/8a1d29a9-68d1-4686-b53f-eb0af5ffbea5)
+
+   ![image](https://github.com/user-attachments/assets/ec7b1a13-13cd-4226-a86d-65e733bdd793)
+
+
+
    ![image](https://github.com/user-attachments/assets/424c1e7f-36ef-4571-b1ba-922886497b0f)
 
 
-  ![image](https://github.com/user-attachments/assets/02cf7397-d6af-483d-8dd7-42ec272d289a)
