@@ -1,5 +1,8 @@
 # Complete CI/CD Pipeline with EKS and AWS ECR
 
+![image](https://github.com/user-attachments/assets/25239acd-dc0d-4c1b-b53a-faf781fab6ae)
+
+
 ## **Project Overview**
 Deploy a complete Jenkins CI/CD pipeline with stages to automatically increment a Java application version, use Apache Maven to build a Java artifact, build and push a Docker image to a private AWS ECR Docker repository, and commit the updated Java application version to Github.
 
